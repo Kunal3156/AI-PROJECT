@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
+.agents/
+.claude/
+previous_chatbot_backup/
+previous_student_success_backup/
